@@ -1,0 +1,24 @@
+{
+  "name": "react-native-transitionable",
+  "version": "1.0.0",
+  "description": "CSS-like transition style properties support for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olosegres/react-native-transitionable.git"
+  },
+  "keywords": [
+    "react-native",
+    "transitions",
+    "animation"
+  ],
+  "author": "Sergei Solo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olosegres/react-native-transitionable/issues"
+  },
+  "homepage": "https://github.com/olosegres/react-native-transitionable#readme"
+}
